@@ -1,3 +1,9 @@
 [submodule "sms-treinamento-back"]
 	path = sms-treinamento-back
 	url = https://github.com/LucasFranciscoCorreia/sms-treinamento-back.git
+[submodule "sms-treinamento-front"]
+	path = sms-treinamento-front
+	url = https://github.com/LucasFranciscoCorreia/sms-treinamento-front.git
+[submodule "sms-treinamento-socket"]
+	path = sms-treinamento-socket
+	url = https://github.com/LucasFranciscoCorreia/sms-treinamento-socket
